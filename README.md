@@ -34,18 +34,18 @@ Nesse desafio foi proposto que fosse desenvolvido uma aplicação mobile com rea
 
 ### Tecnologias
 
--React Native
--Prettier
--ESLint
--Editor Config
--Styled Components
--React Navigation
--Async Storage
--WebView
+- React Native
+- Prettier
+- ESLint
+- Editor Config
+- Styled Components
+- React Navigation
+- Async Storage
+- WebView
 
 ### Tela da aplicação
 
-![Desafio06](https://ibb.co/5BG5KLK)
+![Desafio06](https://i.ibb.co/gzmD4J4/desafio-06.png)
 
 O resultado final do desafio pode ser visualizado acima.
 
