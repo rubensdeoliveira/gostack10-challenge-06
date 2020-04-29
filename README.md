@@ -1,58 +1,40 @@
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+<br>
+Rocketseat - GoStack 10 - Challenge 06
 </h1>
 
-<h3 align="center">
-  Desafio 6: Primeiro projeto com React Native
-</h3>
-
-<p align="center">“Só deseje as coisas as quais você está disposto a lutar”!</p>
+<p align="center">
+This project was created to solve a challenge requested by Rocketseat. 
+Gostack is immersive training in technologies, react and react natively.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-06?color=%2304D361">
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-06/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-06?style=social">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+<hr />
 
-## :rocket: Sobre o desafio
+## Features
 
-Nesse desafio foi proposto que fosse desenvolvido uma aplicação mobile com react native. A aplicação deve salvar usuários do github no banco de dados do smartphone, e quando o usuário selecionar um perfil, listar com paginação os projetos que o mesmo deu star no github. A paginação é carregada de acordo com o scroll que o usuário dá na tela. Além disso, quando o usuário seleciona um projeto, abre uma webview com o endereço web do projeto selecionado.
+- Add github profile.
+- See github profile details.
+- See which projects profile starred.
 
-### Tecnologias
+- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 
-- React Native
-- Prettier
-- ESLint
-- Editor Config
-- Styled Components
-- React Navigation
-- Async Storage
-- WebView
+## Getting started
 
-### Tela da aplicação
+- Clone project > enter the project folder
+- run `yarn`
+- run `yarn android`
 
-![Desafio06](https://i.ibb.co/gzmD4J4/desafio-06.png)
+## License
 
-O resultado final do desafio pode ser visualizado acima.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
 ---
 
-Proposto com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Created with passion by me 👨🏻‍💻
